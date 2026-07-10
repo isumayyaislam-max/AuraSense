@@ -1,4 +1,4 @@
-AuraSense
+# AuraSense
 ### Full-Stack Mental Health & Sentiment Monitoring Web Application
 
 AuraSense is a specialized, data-driven web application designed to track user sentiment and identify low self-esteem or early indicators of anxiety and depression in real-time. By combining intuitive user experiences with proven clinical metrics, the system translates daily textual reflections and assessments into actionable mental health insights.
