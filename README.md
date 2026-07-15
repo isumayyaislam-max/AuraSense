@@ -18,7 +18,7 @@ AuraSense is a specialized, data-driven web application designed to track user s
 
 * **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
 * **Backend & NLP:** Node.js, Express, Python (TextBlob Integration)
-* **Database & UI Design:** SQL, Figma
+* **Database & UI Design:** MongoDB, Figma
 
 ---
 
